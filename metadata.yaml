@@ -1,0 +1,41 @@
+_repo: Beowulf--An-Introduction-to-the-Study-of-the-Poem-with-a-Discussion-of-the-Stories-of-Offa-an__34117
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chambers, R. W. (Raymond Wilson)
+    alias: Chambers, Raymond Wilson
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '36790'
+    url: http://www.gutenberg.org/2009/agents/36790
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_Wilson_Chambers
+description: 'pt. I. The historical elements ; The non-historical elements ; Theories
+  as to the origin, date and structure of the poem -- pt. II. Documents illustrating
+  the stories in Beowulf, and the Offa-saga -- pt. III. The Fight at Finnsburg --
+  pt. IV. Appendix: A-I ; Bibliography of Beowulf and Finnsburg.'
+gutenberg_issued: '2010-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fight at Finnesburg (Anglo-Saxon poem)'
+- !lcsh 'Heroes in literature'
+- !lcsh 'Epic poetry, English (Old) -- History and criticism'
+- !lcsh 'Dragons in literature'
+- !lcsh 'Beowulf'
+- !lcsh 'Offa, King of the Mercians, -796 -- In literature'
+- !lcsh 'Offa saga'
+- !lcsh 'Monsters in literature'
+- !lcsh 'Mercia (Kingdom) -- In literature'
+- !lcsh 'Anglo-Saxons -- Kings and rulers'
+- !lcc 'PR'
+title: 'Beowulf: An Introduction to the Study of the Poem with a Discussion of the
+  Stories of Offa and Finn'
+url: http://www.gutenberg.org/ebooks/34117
